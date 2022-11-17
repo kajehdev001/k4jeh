@@ -2,7 +2,7 @@
 
 📖 Apaixonado por códigos, lógica e conhecimento.
 
-⚙️ Tecnologias em foco: **HTML5 | CSS3 | Javacript | TypeScript | Node | Express | MongoDB | React | Next |React Native**.
+⚙️ Tecnologias em foco: **HTML5 | CSS3 | Javacript | TypeScript | Node | Express | MongoDB | React | Next | React Native**.
 
 🎓 Estudante de Ciência da Computação da UFPI com 75% do curso concluído.
 
