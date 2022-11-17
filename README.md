@@ -1,6 +1,6 @@
 👋 Olá, sou o Kajeh.
 
-📖 Falo pouco e leio muito.
+📖 Apaixonado por códigos, lógica e conhecimento.
 
 ⚙️ Tecnologias em foco: **HTML | CSS | Javacript | TypeScript | Node | Express | MongoDB | React | Redux | Next**.
 
